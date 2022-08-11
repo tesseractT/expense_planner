@@ -1,6 +1,14 @@
 # expense_planner
 
-A new Flutter project.
+This is a simple expense planner created on flutter
+
+*users can track expenses everyday by adding 
+- title
+- amount
+- and the date of expense
+
+*this app is reponsive
+
 
 ## Getting Started
 
